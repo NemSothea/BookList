@@ -1,7 +1,9 @@
 export default function(){
   return [
-    {title:'The Dark Tower by Stephen King series',decription:'Aight, this is going to be an extremely low dollar synopsis of the Dark Tower series by Stephen King, so that those that don't want to invest the time and money in reading it, can read this post and move on with their lives. '},
-    {title:'VAlice Adventures in Wonderland by Lewis Carroll series',decription:'Alice is on the river bank with her sister, suddenly she sees a White Rabbit hurrying, holding a pocket watch in the paw. She follows him down the rabbit hole and falls into a hall with many locked doors. She finds the key from a small 15-inch door, but she can not get into it because of her growth.'},
-    {title:'Odom: Killer man'}
+
+    {title:"Alices Adventures in Wonderland by Lewis Carroll series",description:'Alice is on the river bank with her sister, suddenly she sees a White Rabbit hurrying, holding a pocket watch in the paw. She follows him down the rabbit hole and falls into a hall with many locked doors. She finds the key from a small 15-inch door, but she can not get into it because of her growth.'},
+    {title:'The Help',description:'My teacher recommended this book to me and it has changed my life!'},
+    {title:'Wonder',description:'I know I’m not an ordinary ten-year-old kid. I mean, sure, I do ordinary things. I eat ice cream. I ride my bike. I play ball. I have an XBox. Stuff like that makes me ordinary. I guess. And I feel ordinary. Inside. But I know ordinary kids don’t make other ordinary kids run away screaming in playgrounds. I know ordinary kids don’t get stared at wherever they go.Next week I start fifth grade. Since I’ve never been to a real school before, I am pretty much totally and completely petrified. People think I haven’t gone to school because of the way I look, but it’s not that. It’s because of all the surgeries I’ve had. Twenty-seven since I was born. The bigger ones happened before I was even four years old, so I don’t remember those. But I’ve had two or three surgeries every year since then (some big, some small), and because I’m little for my age, and I have some other medical mysteries that doctors never really figured out, I used to get sick a lot. That’s why my parents decided it was better if I didn’t go to school. I’m much stronger now, though. The last surgery I had was eight months ago, and I probably won’t have to have any more for another couple of years.'},
+    {title:'The Help',description:'My teacher recommended this book to me and it has changed my life!'},
   ];
 }

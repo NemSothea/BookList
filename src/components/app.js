@@ -1,6 +1,6 @@
 import React,{Component} from 'react';
 import BookList from '../containers/book_list';
-export defult class App extends Component {
+export default class App extends Component {
   render(){
     return(
       <div>
